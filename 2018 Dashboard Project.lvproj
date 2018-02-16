@@ -19,8 +19,13 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
+		<Item Name="Team Support Code" Type="Folder">
+			<Item Name="Lift Fill Select.vi" Type="VI" URL="../Lift Fill Select.vi"/>
+			<Item Name="Buffer Calculation.vi" Type="VI" URL="../Buffer Calculation.vi"/>
+			<Item Name="Convert Encoder to Angle v2.vi" Type="VI" URL="../Convert Encoder to Angle v2.vi"/>
+			<Item Name="Config Cluster.ctl" Type="VI" URL="../Config Cluster.ctl"/>
+		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
-		<Item Name="Convert Encoder to Angle v2.vi" Type="VI" URL="../Convert Encoder to Angle v2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
