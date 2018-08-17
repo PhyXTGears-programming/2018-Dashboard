@@ -1,7 +1,7 @@
 # 2018-Dashboard
 The source code for our dashboard.
 
-The frame has been reshaped to fit a 1336 by 768 fullscreened dashboard and drivestation.
+The frame has been reshaped to fit a 1336 by 768 resolution screen. With the drivestation in fullscreen mode.
 
 Features cluster manipulation for file saving and sending config data that is not hardcoded and a configuation tab for calibrating the swerve drivetrain.
 As well as a custom time remaining indicator reciving data sent from the robot that changes color based on hardcoded limits.
